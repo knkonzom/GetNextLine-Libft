@@ -8,7 +8,7 @@ SOURCE	=		ft_atoi.c ft_bzero.c ft_isalnum.c ft_isalpha.c ft_isascii.c ft_isdigit
 				ft_strnequ.c ft_strsub.c ft_strjoin.c ft_putchar_fd.c ft_putchar.c ft_putstr_fd.c \
 				ft_putstr.c ft_putnbr_fd.c ft_putnbr.c ft_putendl_fd.c ft_putendl.c ft_strnstr.c \
 				ft_strtrim.c ft_itoa.c ft_strsplit.c ft_isupper.c ft_islower.c \
-				ft_lstadd.c ft_lstdel.c ft_lstdelone.c ft_lstiter.c ft_lstmap.c ft_lstnew.c
+				ft_lstadd.c ft_lstdel.c ft_lstdelone.c ft_lstiter.c ft_lstmap.c ft_lstnew.c get_next_line.c
 
 OBJECTS	=		$(SOURCE:.c=.o)
 
